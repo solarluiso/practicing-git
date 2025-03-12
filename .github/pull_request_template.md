@@ -1,27 +1,20 @@
 ### Description
-<!-- Clearly and briefly describe the purpose of the PR -->
+<!-- Briefly state the purpose of this PR -->
 
-### Changes Proposed
-<!-- List out key changes made in this PR -->
-- [ ] **Feature added:**
-- [ ] **Bug fixed:**
+### Changes
+- [ ] **Feature:**
+- [ ] **Fix:**
 - [ ] **Refactor:**
-- [ ] **Documentation update:**
+- [ ] **Docs:**
 
 ### Screenshots (if applicable)
-<!-- Add screenshots, GIFs, or videos to illustrate visual changes -->
+<!-- Attach visuals for UI changes -->
 
 ### How to Test
-<!-- Provide clear steps for testing the changes, help the reviewers -->
-1. 
-2. 
-3. 
+1.
 
 ### Checklist
-<!-- Ensure the following before requesting a review -->
-- [ ] Code follows project style guidelines
-- [ ] PR linked to an open issue
-- [ ] Tests added or updated
-- [ ] No console errors/warnings
+- [ ] Code follows project guidelines
+- [ ] Tests pass
 - [ ] No merge conflicts
 - [ ] Ready for review
