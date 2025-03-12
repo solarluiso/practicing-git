@@ -7,7 +7,7 @@ const ResetButtons = ({ field, fields, setFields, isResetAll = false }) => {
 
   const handleResetAll = () => {
     if (window.confirm("Are you sure you want to reset all fields?")) {
-      setFields({ field1: "", field2: "", field3: "", field4: "", field5: "" });
+      setFields(Object.keys(fields).reduce((acc, key) => ({ ...acc, [key]: "" }), {}));
     }
   };
 
